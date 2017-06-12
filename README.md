@@ -2,7 +2,9 @@
 
 This is a magazine example. 
 
-## Getting Started
+## See the page
+
+* https://odalistt.github.io/Ctrl-Tech/
 
 
 
